@@ -1,6 +1,6 @@
 # YourWay
 
-Your Way is a web-based car rental system that connects car owners, customers, and drivers, providing a seamless platform for renting vehicles and hiring drivers. Car owners can list their cars for rent, customers can book cars on an hourly basis, and drivers can offer their services through the system.
+**Your Way** is a web-based car rental system that connects car owners, customers, and drivers, providing a seamless platform for renting vehicles and hiring drivers. Car owners can list their cars for rent, customers can book cars on an hourly basis, and drivers can offer their services through the system.
 
 ![Screenshot_2024-06-19_195032-removebg-preview](https://github.com/bhashanasirimanna/YourWay/assets/146844863/416fafce-f9e9-4eef-ae62-d1e18f3824ba)
 
